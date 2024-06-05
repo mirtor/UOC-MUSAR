@@ -10,7 +10,11 @@ La aplicación consta de 3 pantallas: <br>
 ![Capturas de pantalla](capturas.png)
 
 
+
 Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=sharing).
+
+
+
 
 
 
@@ -52,10 +56,3 @@ Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKL
 
 - PTC Inc. (2024). Vuforia Engine (10.22). [Software]  
   [https://developer.vuforia.com/downloads/sdk](https://developer.vuforia.com/downloads/sdk)
-
-- Microsoft Corporation. (2021). Microsoft Office Professional Plus 2021. [Software de productividad].  
-  [https://www.microsoft.com](https://www.microsoft.com)
-
-- Figma. Figma. [Software de diseño].  
-  [https://www.figma.com/](https://www.figma.com/)
-
