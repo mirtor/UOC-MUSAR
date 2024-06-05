@@ -7,7 +7,7 @@ DesarrollaDA en Unity versión 2023.1.8f1. Se programa en C# con el editor Visua
 
 La aplicación consta de 3 pantallas: <br>
 
-![Capturas de pantalla](capturas.jpg)
+![Capturas de pantalla](capturas.png)
 
 
 Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=sharing).
