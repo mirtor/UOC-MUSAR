@@ -3,19 +3,19 @@
 ## MUSAR
 
 Proyecto universitario de Grado Multimedia en la UOC que consiste en una aplicación guía para museos en Android. 
-DesarrollaDA en Unity versión 2023.1.8f1. Se programa en C# con el editor Visual Studio Code. Realidad Aumentada configurada mediante Vuforia Engine 10.22.
+Desarrollada en Unity versión 2023.1.8f1. Se programa en C# con el editor Visual Studio Code. Realidad Aumentada configurada mediante Vuforia Engine 10.22.
 
 La aplicación consta de 3 pantallas: <br>
 
 ![Capturas de pantalla](capturas.png)
 
 
+<br>
+**Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=sharing).
 
-Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=sharing).
-
-
-
-
+<br>
+<br>
+<br>
 
 
 
