@@ -1,24 +1,22 @@
-# Desarrollo de Aplicaciones Interactivas - Práctica
+# Interactive Application Development - Practice
 
 ## MUSAR
 
-Proyecto universitario de Grado Multimedia en la UOC que consiste en una aplicación guía para museos en Android. 
-Desarrollada en Unity versión 2023.1.8f1. Se programa en C# con el editor Visual Studio Code. Realidad Aumentada configurada mediante Vuforia Engine 10.22.
+University project for the Multimedia Degree at UOC, consisting of a museum guide application for Android.
+Developed in Unity version 2023.1.8f1. Programmed in C# using Visual Studio Code.
+Augmented Reality is implemented using Vuforia Engine 10.22.
 
-La aplicación consta de 3 pantallas: <br>
-
-![Capturas de pantalla](capturas.png)
 
 
 <br>
 
 
-Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=drive_link).
+Download the full project [here](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=drive_link).
 
 
 <br>
 
-Descarga el .apk [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=drive_link).
+Download the .apk [here](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpYaaRCUfeWTb/view?usp=drive_link).
 
 
 
@@ -28,7 +26,7 @@ Descarga el .apk [aquí](https://drive.google.com/file/d/1tQxFK-NKLaKMxjoe9r6wpY
 
 
 
-## Bibliografía y fuentes
+## Bibliography and Sources
 
 - Unity. (2024). Unity – Manual: Unity User Manual.  
   [https://docs.unity3d.com/Manual/index.html](https://docs.unity3d.com/Manual/index.html)
