@@ -7,7 +7,7 @@ Developed in Unity version 2023.1.8f1. Programmed in C# using Visual Studio Code
 Augmented Reality is implemented using Vuforia Engine 10.22.
 <br>
 
-![MUSAR Preview](./assets/capturas.png) 
+![Capturas de pantalla](capturas.png)
 <br>
 
 
