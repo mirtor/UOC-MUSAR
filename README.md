@@ -5,9 +5,9 @@
 University project for the Multimedia Degree at UOC, consisting of a museum guide application for Android.
 Developed in Unity version 2023.1.8f1. Programmed in C# using Visual Studio Code.
 Augmented Reality is implemented using Vuforia Engine 10.22.
+<br>
 
-
-
+![MUSAR Preview](./assets/capturas.png) 
 <br>
 
 
